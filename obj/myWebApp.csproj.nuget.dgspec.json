@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fernando.garcia\\Documents\\Temporal\\Cursos\\AZ-400\\PracticasLab\\myWebApp\\myWebApp.csproj": {}
+    "c:\\Users\\fernando.garcia\\Documents\\Temporal\\Cursos\\AZ-400\\PracticasLab\\myWebApp\\myWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fernando.garcia\\Documents\\Temporal\\Cursos\\AZ-400\\PracticasLab\\myWebApp\\myWebApp.csproj": {
+    "c:\\Users\\fernando.garcia\\Documents\\Temporal\\Cursos\\AZ-400\\PracticasLab\\myWebApp\\myWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fernando.garcia\\Documents\\Temporal\\Cursos\\AZ-400\\PracticasLab\\myWebApp\\myWebApp.csproj",
+        "projectUniqueName": "c:\\Users\\fernando.garcia\\Documents\\Temporal\\Cursos\\AZ-400\\PracticasLab\\myWebApp\\myWebApp.csproj",
         "projectName": "myWebApp",
-        "projectPath": "C:\\Users\\fernando.garcia\\Documents\\Temporal\\Cursos\\AZ-400\\PracticasLab\\myWebApp\\myWebApp.csproj",
+        "projectPath": "c:\\Users\\fernando.garcia\\Documents\\Temporal\\Cursos\\AZ-400\\PracticasLab\\myWebApp\\myWebApp.csproj",
         "packagesPath": "C:\\Users\\fernando.garcia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fernando.garcia\\Documents\\Temporal\\Cursos\\AZ-400\\PracticasLab\\myWebApp\\obj\\",
+        "outputPath": "c:\\Users\\fernando.garcia\\Documents\\Temporal\\Cursos\\AZ-400\\PracticasLab\\myWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
